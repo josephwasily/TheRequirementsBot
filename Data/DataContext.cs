@@ -1,5 +1,4 @@
-﻿using FileContextCore;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 using static OpenAI.GPT3.ObjectModels.SharedModels.IOpenAiModels;

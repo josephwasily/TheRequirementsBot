@@ -17,7 +17,7 @@ namespace MultiTurnPromptBot.NLP
         {
             var openAiService = new OpenAIService(new OpenAiOptions()
             {
-                ApiKey = "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"
+                ApiKey = "<key>"
             });
 
             var prompt = $"\"{userRequirement}\"is this user requirement ambigious? respond in JSON format {{\"ambigious\": true,\"ambiguousWords\":[] , \"rewrite\":\"\" }}, provide if ambigious or not, and the list of ambigious words, and rewrite it in less ambigious way";
