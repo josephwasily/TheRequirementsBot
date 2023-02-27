@@ -1,0 +1,197 @@
+{"prompt":"The application shall match the color of the schema set forth by Department of Homeland Security ->","completion":" 0"}
+{"prompt":"If projected the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100 ->","completion":" 1"}
+{"prompt":"The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data ->","completion":" 0"}
+{"prompt":"The table side of the display shall be split into 2 regions: sequential and temporal. ->","completion":" 0"}
+{"prompt":"The system shall allow modification of the display. ->","completion":" 0"}
+{"prompt":"The system shall offer a display of all the Events in the exercise. ->","completion":" 0"}
+{"prompt":"The system shall provide a history report of changes made to the Activity or Event data ->","completion":" 0"}
+{"prompt":"The system shall be used by realtors with no training. ->","completion":" 0"}
+{"prompt":"The product shall be easy for a realtor to learn. ->","completion":" 1"}
+{"prompt":"The product shall use symbols and words that are naturally understandable by the realtor community. ->","completion":" 1"}
+{"prompt":"The product shall synchronize contacts and appointments in an acceptable time. ->","completion":" 1"}
+{"prompt":"100% of saved user preferences shall be restored when system comes back online. ->","completion":" 0"}
+{"prompt":"90% of untrained realtors shall be able to install the product on their device without printed instructions ->","completion":" 0"}
+{"prompt":"The user shall be able to get driving directions to a selected property ->","completion":" 0"}
+{"prompt":"Realtor shall be able to generate a CMA report based on property criteria ->","completion":" 0"}
+{"prompt":"The realtor shall be notified of new client appointments after automatic synchronization with office system ->","completion":" 0"}
+{"prompt":"The number of mistakes noted by the students shall be decreased by 50% in the first year. ->","completion":" 0"}
+{"prompt":"system shall be able to handle all of the user requests\/usage during business hours. ->","completion":" 1"}
+{"prompt":"The system shall be used within the specifications defined by the computers used by the Program Administrators\/Nursing Staff Members. ->","completion":" 0"}
+{"prompt":"The system shall interface with CampusConnect\\92s central server ->","completion":" 0"}
+{"prompt":"Only authorized users shall have access to clinical site information. ->","completion":" 0"}
+{"prompt":"Only authorized users shall have access to the portion of the system that interfaces with CampusConnect. ->","completion":" 0"}
+{"prompt":"The system shall protect private information in accordance with the organization\\92s information policy. ->","completion":" 1"}
+{"prompt":"The system shall be built such that it is as secure as possible from malicious interference. ->","completion":" 1"}
+{"prompt":"Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort. ->","completion":" 0"}
+{"prompt":"Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort. ->","completion":" 0"}
+{"prompt":"For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered. ->","completion":" 0"}
+{"prompt":"Clinical site information shall include (but not be limited to) the name of the site contact person and contact information. ->","completion":" 0"}
+{"prompt":"A Program Administrator\/Nursing Staff Member shall be able to add a new nursing student to the system. ->","completion":" 0"}
+{"prompt":"The system shall be able to display a printable summary for individual cohorts  which will include the students enlisted  the Program of study  sequence of classes  cohort progress through the program  and timeline of completion. ->","completion":" 0"}
+{"prompt":"The system shall be able to display a printable summary of the system log. ->","completion":" 0"}
+{"prompt":"The system will notify affected parties when changes occur affecting clinicals  including but not limited to clinical section capacity changes  and clinical section cancellations. ->","completion":" 0"}
+{"prompt":"The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database ->","completion":" 0"}
+{"prompt":"The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application. ->","completion":" 0"}
+{"prompt":"The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant\\92s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System. ->","completion":" 0"}
+{"prompt":"The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests. ->","completion":" 0"}
+{"prompt":"All additions of new users and modifications to user\\92s access shall be recorded on the User Report. ->","completion":" 0"}
+{"prompt":"All updates to data files or database must be initiated from the Disputes System. ->","completion":" 0"}
+{"prompt":"The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users. ->","completion":" 0"}
+{"prompt":"The Disputes System shall allow the user to create or initiate a chargeback request.  The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid. ->","completion":" 0"}
+{"prompt":"The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time. ->","completion":" 0"}
+{"prompt":"All letter requests must be formatted according to guidelines specified by the Print Letter Utility system. ->","completion":" 0"}
+{"prompt":"Any disputes cases that have been closed for over 6 months must be purged from the online disputes database. ->","completion":" 0"}
+{"prompt":"The product shall run on the existing hardware for all environments. ->","completion":" 0"}
+{"prompt":"The product shall adhere to the corporate Architecture guidelines ->","completion":" 0"}
+{"prompt":"The product shall be easy to learn by Adjusters and Collision Estimators ->","completion":" 1"}
+{"prompt":"The user shall easily locate instructions while using the product.  User help can be found within 90% of the system. ->","completion":" 1"}
+{"prompt":"The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds. ->","completion":" 0"}
+{"prompt":"Product installations and upgrades shall be handled by the middleware technology team within established launch time frames. ->","completion":" 0"}
+{"prompt":"The product shall comply with insurance regulations regarding claims processing. ->","completion":" 0"}
+{"prompt":"The user shall search for the preferred repair facility using vehicle  vehicle location  and radius in miles ->","completion":" 0"}
+{"prompt":"The vehicle data shall include vehicle year make and model ->","completion":" 0"}
+{"prompt":"The vehicle location shall include street address city state and zipcode ->","completion":" 0"}
+{"prompt":"The estimator shall search for available recycled parts using damaged vehicle parts information. ->","completion":" 0"}
+{"prompt":"The estimator shall search for available recycled parts using a list of preferred parts suppliers. ->","completion":" 0"}
+{"prompt":"The user shall select to view the preferred repair facility ratings. ->","completion":" 0"}
+{"prompt":"The current repair facility ratings shall be displayed to the user. ->","completion":" 0"}
+{"prompt":"The ratings shall be from a scale of 1-10 ->","completion":" 0"}
+{"prompt":"The preferred repair facility ratings shall be saved by the system. ->","completion":" 0"}
+{"prompt":"The product shall allow the user to select a chosen language from one of the target market countries. ->","completion":" 0"}
+{"prompt":"Aside from server failure  the software product shall achieve 99.99% up time. ->","completion":" 0"}
+{"prompt":"The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days. ->","completion":" 0"}
+{"prompt":"The product shall be translated into foreign languages other than the target market countries\\92 languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market\\92s language. ->","completion":" 0"}
+{"prompt":"The product shall be able to be installed in any operating environment within 2 days. ->","completion":" 0"}
+{"prompt":"The product shall store new conference rooms. ->","completion":" 0"}
+{"prompt":"Each time a conference room is reserved  the conference room schedule shall be updated to reflect the time and date of the reservation. ->","completion":" 0"}
+{"prompt":"The product shall display a map of the company building showing conference room locations. ->","completion":" 0"}
+{"prompt":"The product shall display conference rooms according to search parameters. ->","completion":" 0"}
+{"prompt":"The product shall record all the equipment that has been reserved. ->","completion":" 0"}
+{"prompt":"Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem. ->","completion":" 0"}
+{"prompt":"The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive. ->","completion":" 1"}
+{"prompt":"System shall let customers register on the website as a \\93unlimited movie subscriber\\94 user in under 10 minutes. ->","completion":" 0"}
+{"prompt":"System shall let existing customers log into the website with their email address and password in under 5 seconds. ->","completion":" 0"}
+{"prompt":"System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs. ->","completion":" 0"}
+{"prompt":"The website should have an African feel  but should not alienate non-Africans.  The website should use animation on pages which are describing the services  to grab the users attention and encourage them to sign up. ->","completion":" 1"}
+{"prompt":"The product should be able to be used by 90% of novice users on the Internet. ->","completion":" 0"}
+{"prompt":"Users should be able to access their streaming movies in under 2 clicks after logging into the website. ->","completion":" 0"}
+{"prompt":"An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website. ->","completion":" 0"}
+{"prompt":"The product shall use symbols and words that are naturally understandable by users familiar with websites ->","completion":" 1"}
+{"prompt":"When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user\\92s connection.) ->","completion":" 0"}
+{"prompt":"All movies shall be streamed on demand  at any time of the day. ->","completion":" 0"}
+{"prompt":"The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years. ->","completion":" 0"}
+{"prompt":"Website must be fully operational with MSN TV2. ->","completion":" 0"}
+{"prompt":"The product shall be able to be installed in the specified environment within 1 working day. ->","completion":" 0"}
+{"prompt":"Data integrity scripts will be run on a weekly basis to verify the integrity of the database. ->","completion":" 0"}
+{"prompt":"Website shall allow customers to view reviews of selected movies by other customers. ->","completion":" 0"}
+{"prompt":"Website shall allow customers to add their own movie review for a selected movie. ->","completion":" 0"}
+{"prompt":"Website shall allow customers to purchase pre-paid cards of $5  $10  or $20 value either by credit card or mail-in payment option. ->","completion":" 0"}
+{"prompt":"System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website. ->","completion":" 0"}
+{"prompt":"System shall allow users to update their billing and contact information via the \\93My Account\\94 section of the website. ->","completion":" 0"}
+{"prompt":"Pre-paid cards shall be distributed via email or via a printed paper card. ->","completion":" 0"}
+{"prompt":"Daily usage statistics should be logged  and accessible by the administrator. ->","completion":" 0"}
+{"prompt":"The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle. ->","completion":" 0"}
+{"prompt":"Defect reports will be available to technical units on a 24x7 basis. ->","completion":" 0"}
+{"prompt":"Washing parameters will be updated during scheduled maintenance hours. ->","completion":" 0"}
+{"prompt":"The vendor will verify the invalid lead. ->","completion":" 0"}
+{"prompt":"The leads washing functionality will compile both contact and academic scoring information for a total score. ->","completion":" 0"}
+{"prompt":"The leads washing functionality will store any potential lead duplicates returned by the enterprise system. ->","completion":" 0"}
+{"prompt":"The leads washing functionality shall receive a period list of available reps from the enterprise system. ->","completion":" 0"}
+{"prompt":"The product shall simulate the look of ships at sea. ->","completion":" 0"}
+{"prompt":"When a ship is sunk  the product shall simulate the sound of a sinking ship. ->","completion":" 0"}
+{"prompt":"The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses. ->","completion":" 0"}
+{"prompt":"The product shall be intuitive and self-explanatory. ->","completion":" 1"}
+{"prompt":"The product shall maintain a list of players. ->","completion":" 0"}
+{"prompt":"Once a game has been initiated  the product shall make the players assigned to the game unavailable for selection from the list of players. ->","completion":" 0"}
+{"prompt":"The product shall allow the player to position ships vertically on their grid. ->","completion":" 0"}
+{"prompt":"For each turn  the product shall identify one player as offensive status and one player as defensive status. ->","completion":" 0"}
+{"prompt":"The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player\\92s ships  which had not been previously marked as sunk. ->","completion":" 0"}
+{"prompt":"The system shall be easy to use by callers and supervisors. ->","completion":" 1"}
+{"prompt":"The system must be available for use between 7:00AM and 11:59PM all days of the year. ->","completion":" 0"}
+{"prompt":"The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots. ->","completion":" 0"}
+{"prompt":"The product shall ensure that only supervisors can enter a caller\\92s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots. ->","completion":" 0"}
+{"prompt":"The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support. ->","completion":" 0"}
+{"prompt":"The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface. ->","completion":" 0"}
+{"prompt":"The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage. ->","completion":" 1"}
+{"prompt":"The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time. ->","completion":" 0"}
+{"prompt":"The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators) ->","completion":" 0"}
+{"prompt":"The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications ->","completion":" 0"}
+{"prompt":"The product shall provide Multi-threading and Load Balancing.The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic. ->","completion":" 0"}
+{"prompt":"The product shall be robust with fault tolerance. ->","completion":" 1"}
+{"prompt":"The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures. ->","completion":" 1"}
+{"prompt":"The product shall interface CSR and Datastream.The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems. ->","completion":" 0"}
+{"prompt":"Reports must be generated within one button click and exported within one button click (after selecting the report) ->","completion":" 0"}
+{"prompt":"The Brio portion of the WCS system must be able to export files in spreadsheet form (Microsoft Excel and Lotus 1-2-3 formats).  Brio will provide buttons in the user interface that produce\/export reports in .xls or .123 file formats. ->","completion":" 0"}
+{"prompt":"Users shall be able to view at least 25 NFL player statistics and points on each page. ->","completion":" 0"}
+{"prompt":"The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network. ->","completion":" 0"}
+{"prompt":"The system shall allow a text search that users may use to find mail messages. ->","completion":" 0"}
+{"prompt":"The system shall query the user for the account type. ->","completion":" 0"}
+{"prompt":"The system shall validate the amount is available in the user’s account before releasing funds to the user. ->","completion":" 0"}
+{"prompt":"The meeting scheduler shall be accessed from the Web. ->","completion":" 0"}
+{"prompt":"A meeting scheduler system will inform the “potential meeting participant” of the meeting. ->","completion":" 0"}
+{"prompt":"The system must be quickly accessible by both managers and chefs. ->","completion":" 1"}
+{"prompt":"Patrons shall log in according to the restricted computer system access policy. ->","completion":" 0"}
+{"prompt":"95% of users will not need to read the user manual to be able to use the application. ->","completion":" 1"}
+{"prompt":"The application should be connected to the Internet. ->","completion":" 0"}
+{"prompt":"Test environments should be built for the application to allow testing of the applications different functions. ->","completion":" 0"}
+{"prompt":"The campus map shall provide visual clues regarding what areas have prepared audio and therefore may be selected. ->","completion":" 0"}
+{"prompt":"The system shall utilise periodic 30-second keep-alive messages between tablets and the server to monitor tablet operational status. ->","completion":" 0"}
+{"prompt":"The system shall flag tablets that fail to send timely keep-alive messages as non-operational and disassociate the assigned waiter from the tablet. ->","completion":" 0"}
+{"prompt":"A waiter password used for tablet login must have a bit-strength of at least 64 bits. ->","completion":" 0"}
+{"prompt":"A waiter password used for tablet login must be changed every three months. ->","completion":" 0"}
+{"prompt":"A waiter shall only be able to log into one tablet at any given instance of time. ->","completion":" 0"}
+{"prompt":"Enable a logged in user to ask questions. ->","completion":" 0"}
+{"prompt":"Information transmission should be securely transmitted to server without any changes in information. ->","completion":" 0"}
+{"prompt":"Be intuitive even to first time users ->","completion":" 1"}
+{"prompt":"Flea Market system will interface with the web server and RDBMS software using APIs provided by the implementation language ->","completion":" 0"}
+{"prompt":"All transactions at the Flea Market require a valid user ID and password. ->","completion":" 0"}
+{"prompt":"The IP addresses where the transaction was made from will be logged. ->","completion":" 0"}
+{"prompt":"Information recorded must include an optional field for context. ->","completion":" 0"}
+{"prompt":"It must be able to change and update information on the server. ->","completion":" 0"}
+{"prompt":"The user must be able to set an option to hide information based on who has tagged it. ->","completion":" 0"}
+{"prompt":"All information must be updatable on the website. ->","completion":" 0"}
+{"prompt":"It must allow a user to download a backup of their medical information. ->","completion":" 0"}
+{"prompt":"The system should have to keep the location where the doughnut will be send. ->","completion":" 0"}
+{"prompt":"The system must automatically log out all customers after a period of inactivity. ->","completion":" 1"}
+{"prompt":"The system’s back-end servers shall only be accessible to authenticated administrators. ->","completion":" 0"}
+{"prompt":"Sensitive data will be encrypted before being sent over insecure connections like the internet. ->","completion":" 0"}
+{"prompt":"The reliability of the overall program depends on the reliability of the separate components. The main pillar of reliability of the system is the backup of the database which is continuously maintained and updated to reflect the most recent changes. ->","completion":" 0"}
+{"prompt":"An end-user may use this system on any OS; either it is Windows or Linux. ->","completion":" 0"}
+{"prompt":"The product is Web based therefore it will be used in any environment that allows Web access. ->","completion":" 0"}
+{"prompt":"For the system to successfully operate the registration system should be integrated with other IT services and the portal. ->","completion":" 0"}
+{"prompt":"Everyone (stakeholders and guests) can have access to the system and the catalogue. Every client must have secure and private access to his\/her data. The  and the service man can have access to every part of the system. All these accesses (except the “guest tour” access) require identification through ID and password. ->","completion":" 0"}
+{"prompt":"The system shall be available 99.5% of the time. ->","completion":" 0"}
+{"prompt":"The software is available for use from the supermarket opening time to the closing time. ->","completion":" 0"}
+{"prompt":"System will use secured database ->","completion":" 1"}
+{"prompt":"Can give feedback to the 24X7 Customer Care Service center about their impression for the site and services. ->","completion":" 0"}
+{"prompt":"Customer must logout of the site after purchasing products. ->","completion":" 0"}
+{"prompt":"Responsible for informing administrator when any product item’s stock goes under the minimum level. ->","completion":" 0"}
+{"prompt":"Keep track of all the payment transactions made by the customers and update the payment information. ->","completion":" 0"}
+{"prompt":"Provide feasible solutions to the customers on their complaints and queries. ->","completion":" 1"}
+{"prompt":"The voter should be able to login and should be able to get response for his requests in 2-3 seconds. ->","completion":" 0"}
+{"prompt":"Backspace\/reset capability is implemented for typing errors. ->","completion":" 0"}
+{"prompt":"Selected or specified patient’s information is loaded. ->","completion":" 0"}
+{"prompt":"Return to List is available if the patient loaded is not correct. ->","completion":" 0"}
+{"prompt":"Navigation to each selected tab. ->","completion":" 0"}
+{"prompt":"Customized information is displayed. ->","completion":" 0"}
+{"prompt":"The text and time\/date of a note that has been entered is displayed starting with most recent. ->","completion":" 0"}
+{"prompt":"A description and time\/date of each prescription that has been ordered or given is displayed starting with most recent. ->","completion":" 0"}
+{"prompt":"The system shall allow the initiator to view the information of any meetings which they initiated. ->","completion":" 0"}
+{"prompt":"The system shall allow the user to view their schedule. ->","completion":" 0"}
+{"prompt":"The system shall allow users to send and receive messages. ->","completion":" 0"}
+{"prompt":"The system shall request a user response to initiator or mediator messages. ->","completion":" 0"}
+{"prompt":" The system shall allow the user to modify the location preference set of an already submitted meeting response. ->","completion":" 0"}
+{"prompt":"The system shall show the meetings to the user in ascending time order by default. ->","completion":" 0"}
+{"prompt":"The system shall allow user to specify custom meeting locations. ->","completion":" 0"}
+{"prompt":"The system shall allow users to view location information. ->","completion":" 0"}
+{"prompt":"Personal information security is defined outside the scope of the SDMS by the database server. ->","completion":" 0"}
+{"prompt":"The system shall display only 10 matching result on the current screen. ->","completion":" 0"}
+{"prompt":"The system shall enable user to select the shipping method during payment process. ->","completion":" 0"}
+{"prompt":"The system shall display available payment methods for payment. ->","completion":" 0"}
+{"prompt":"The system shall allow user to confirm the purchase. ->","completion":" 0"}
+{"prompt":"The system shall provide handicap access. ->","completion":" 0"}
+{"prompt":"The customer’s web browser shall never display a customer’s credit card number after retrieving from the database.  It shall always be shown with just the last 4 digits of the credit card number. ->","completion":" 0"}
+{"prompt":"The system will use a single password per user to login to the E-Store System. ->","completion":" 0"}
+{"prompt":"Any page of the application should not take more than 6 seconds to load on a DSL broadband connection. ->","completion":" 0"}
+{"prompt":"The system should be portable to various operating environments. ->","completion":" 0"}
+{"prompt":"The user must be able to find what he\/she wants from the site without any difficulty. ->","completion":" 1"}
